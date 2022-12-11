@@ -17,8 +17,8 @@ import {
     Divider
 } from "@chakra-ui/react";
 import { SignupType, SignupErrorType } from "../../types";
-import { HiOutlineRefresh } from 'react-icons/Hi';
-import { AiTwotoneSound } from 'react-icons/Ai'
+import { HiOutlineRefresh } from 'react-icons/hi';
+import { AiTwotoneSound } from 'react-icons/ai'
 
 import {
     flexStyleProps,
